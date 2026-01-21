@@ -41,7 +41,7 @@ export const SubmitButton = ({ label }: { label: string }) => {
       type="submit"
       disabled={pending}
       className={clsx(
-        "bg-blue-700 text-white w-full font-medium py-2.5 px-6 hover:bg-blue-600",
+        "w-full font-medium py-2.5 px-6 ",
         pending && "opacity-50 cursor-progress",
       )}
     >

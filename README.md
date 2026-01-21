@@ -85,10 +85,40 @@ Untuk mengelola state aplikasi, terutama data **tugas**, filter, dan status logi
 
 ---
 
+## **Contoh Tampilan Website**
+
+### **1. User Autentikasi**
+
+- **Registrasi**  
+  ![register](docs/images/register.png)
+- **Login**  
+  ![login](docs/images/login.png)
+
+### **2. CRUD Todo**
+
+- **Menambahkan Data**  
+  ![add](docs/images/tambah.png)
+
+- **Melihat Semua Data**  
+  ![view-all](docs/images/home.png)
+
+- **Melihat Data Berdasarkan ID**  
+  ![view-id](docs/images/detail.png)
+
+- **Mengedit Data**  
+  ![edit](docs/images/edit.png)
+
+- **Menghapus Data**  
+  ![delete](docs/images/hapus.png)
+
+---
+
 ## 📝 Catatan
 
-Aplikasi Todo ini masih versi awal dan cukup sederhana. Beberapa fitur dan tampilan masih bisa dikembangkan lebih lanjut.
+Aplikasi Todo ini masih dalam tahap awal pengembangan. Beberapa fitur masih sederhana, belum sepenuhnya optimal, dan kemungkinan masih terdapat bug.
 
-Jika saya memiliki waktu, saya akan melanjutkan pengembangan untuk menambahkan fitur-fitur tambahan, memperbaiki UI/UX, dan meningkatkan pengalaman pengguna.
+Tampilan aplikasi juga belum responsif sepenuhnya, sehingga masih bisa dikembangkan lagi ke depannya.
 
-Feel free to contribute atau kasih saran! 🚀
+Ke depannya, aplikasi ini masih terbuka untuk penambahan fitur, perbaikan UI/UX, dan peningkatan pengalaman pengguna.
+
+Silakan beri saran atau masukan. Setiap feedback sangat berarti. 🚀

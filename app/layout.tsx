@@ -2,7 +2,8 @@ import type { Metadata } from "next";
 import { Raleway } from "next/font/google";
 import "./globals.css";
 import QueryProvider from "./providers";
-import Navbar from "@/components/navbar";
+import Footer from "@/components/Footer";
+import Navbar from "@/components/Navbar";
 
 const raleway = Raleway({
   variable: "--font-raleway",
@@ -25,6 +26,7 @@ export default function RootLayout({
         <QueryProvider>
           <Navbar />
           {children}
+          <Footer />
         </QueryProvider>
       </body>
     </html>
